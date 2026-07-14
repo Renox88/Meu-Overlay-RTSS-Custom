@@ -34,7 +34,7 @@ Exemplos em funcionamento dos 4 overlays diferentes:
 <br><br>
 
 Downloads:
-* 💾 [Baixar: Pequeno Transparente](./overlays/1OverlayTransparentePequenoTempColorida.ovl)
-* 💾 [Baixar: Pequeno 100% Visível](./overlays/2OverlayRegularPequenoTempColorida.ovl)
-* 💾 [Baixar: Grande Transparente](./overlays/3OverlayTransparenteGrandeTempColorida.ovl)
-* 💾 [Baixar: Grande 100% Visível](./overlays/4OverlayRegularGrandeTempColorida.ovl)
+* 💾 [Baixar: Pequeno Transparente (Download Direto)](https://raw.githubusercontent.com/Renox88/Meu-Overlay-RTSS-Custom/main/overlays/1OverlayTransparentePequenoTempColorida.ovl)
+* 💾 [Baixar: Pequeno 100% Visível (Download Direto)](https://raw.githubusercontent.com/Renox88/Meu-Overlay-RTSS-Custom/main/overlays/2OverlayRegularPequenoTempColorida.ovl)
+* 💾 [Baixar: Grande Transparente (Download Direto)](https://raw.githubusercontent.com/Renox88/Meu-Overlay-RTSS-Custom/main/overlays/3OverlayTransparenteGrandeTempColorida.ovl)
+* 💾 [Baixar: Grande 100% Visível (Download Direto)](https://raw.githubusercontent.com/Renox88/Meu-Overlay-RTSS-Custom/main/overlays/4OverlayRegularGrandeTempColorida.ovl)
