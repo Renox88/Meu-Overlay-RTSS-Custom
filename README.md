@@ -20,10 +20,10 @@ Informações adicionais:
 
 Exemplos em funcionamento dos 4 overlays diferentes:
 
-![Preview](./images/Cyberpunk2077_PequenoTransparente.bmp
+![Preview](./images/Cyberpunk2077_PequenoTransparente.bmp)
 
-![Preview](./images/Cyberpunk2077_Pequeno100Visivel.bmp
+![Preview](./images/Cyberpunk2077_Pequeno100Visivel.bmp)
 
-![Preview](./images/Cyberpunk2077_GrandeTransparente.bmp
+![Preview](./images/Cyberpunk2077_GrandeTransparente.bmp)
 
-![Preview](./images/Cyberpunk2077_Grande100Visivel.bmp
+![Preview](./images/Cyberpunk2077_Grande100Visivel.bmp)
