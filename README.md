@@ -31,3 +31,10 @@ Exemplos em funcionamento dos 4 overlays diferentes:
 ![Preview](./images/Cyberpunk2077_GrandeTransparente.png)
 
 ![Preview](./images/Cyberpunk2077_Grande100Visivel.png)
+<br><br>
+
+Downloads:
+* 💾 [Baixar: Pequeno Transparente](./overlays/1OverlayTransparentePequenoTempColorida.ovl)
+* 💾 [Baixar: Pequeno 100% Visível](./overlays/2OverlayRegularPequenoTempColorida.ovl)
+* 💾 [Baixar: Grande Transparente](./overlays/3OverlayTransparenteGrandeTempColorida.ovl)
+* 💾 [Baixar: Grande 100% Visível](./overlays/4OverlayRegularGrandeTempColorida.ovl)
