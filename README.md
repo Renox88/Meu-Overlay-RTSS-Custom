@@ -10,7 +10,7 @@ Perfis:
 Configurações necessárias:
 1. Setup > aba Plugins > Habilitar ambos os plugins “HotkeyHandler.dll e OverlayEditor.dll”
 2. Entrar em HotkeyHandler.dll > Mostrador de informações na tela > Configurar > Configurar os 4 overlays conforme imagem, cada um com seu atalho “Ctrl + X”, mensagem “Load” e puxar o caminho completo nos parâmetros (exemplo): D:\CaminhCompleto\CaminhCompleto\CaminhCompleto\XXX.ovl (SEMPRE .ovl)
-
+images/RivaOverlayCustom.png
 
 Informações adicionais:
 - NÃO é necessário alterar o título do modelo da CPU e GPU por exemplo pois ele usa dinamicamente do sistema.
