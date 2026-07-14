@@ -22,7 +22,7 @@ Informações adicionais:
 - Para as temperaturas de CPU e GPU também se faz necessário ajustar o threshold para o seu hardware.
 <br><br>
 
-Exemplos em funcionamento dos 4 overlays diferentes:
+Exemplos em funcionamento dos 4 overlays diferentes mo canto superior esquerdo:
 
 ![Preview](./images/Cyberpunk2077_PequenoTransparente.png)
 
