@@ -24,13 +24,13 @@ Informações adicionais:
 
 Exemplos em funcionamento dos 4 overlays diferentes mo canto superior esquerdo:
 
-![Preview](./images/Cyberpunk2077_PequenoTransparente.png)
+![Preview](./images/1Cyberpunk2077_PequenoTransparente.png)
 
-![Preview](./images/Cyberpunk2077_Pequeno100Visivel.png)
+![Preview](./images/2Cyberpunk2077_Pequeno100Visivel.png)
 
-![Preview](./images/Cyberpunk2077_GrandeTransparente.png)
+![Preview](./images/3Cyberpunk2077_GrandeTransparente.png)
 
-![Preview](./images/Cyberpunk2077_Grande100Visivel.png)
+![Preview](./images/4Cyberpunk2077_Grande100Visivel.png)
 <br><br>
 
 Downloads:
