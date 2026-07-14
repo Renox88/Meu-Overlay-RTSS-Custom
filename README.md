@@ -17,3 +17,13 @@ Informações adicionais:
 - Eu optei por buscar as informações SOMENTE do Riva e MSI e não usar softwares externos como o hwinfo por exemplo para diminuir a complexidade e risco de problemas.
 - Para as porcentagens de uso dos componentes, fiz um threshold de acordo com o meu hardware (CPU, GPU, RAM e VRAM) ajuste as cores das porcentagens para o seu hardware.
 - Para as temperaturas de CPU e GPU também se faz necessário ajustar o threshold para o seu hardware.
+
+Exemplos em funcionamento dos 4 overlays diferentes:
+
+![Preview](./images/Cyberpunk2077_PequenoTransparente.bmp
+
+![Preview](./images/Cyberpunk2077_Pequeno100Visivel.bmp
+
+![Preview](./images/Cyberpunk2077_GrandeTransparente.bmp
+
+![Preview](./images/Cyberpunk2077_Grande100Visivel.bmp
