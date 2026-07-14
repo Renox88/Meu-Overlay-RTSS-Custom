@@ -1,6 +1,6 @@
 # Meu-Overlay-RTSS-Custom
 São 4 perfis de overlay do RivaTuner junto com o MSI Afterburner
-<br>
+<br><br>
 Perfis:
 1. Pequeno transparente
 2. Pequeno 100% visível
